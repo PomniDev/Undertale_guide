@@ -11,7 +11,16 @@ body {
     width: 500px;
     margin-left: 400px;
     margin-right: 200px;
-
+}
+.Flowey {
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+.Flowey-P {
+    margin-left: 140px;
 }
 .Base_Cab{
 height: 100px;
@@ -23,12 +32,13 @@ width: 200px;
 margin-left: 150px;
 margin-right: 100px;
 margin-top: 30px;
-
-
+}
+.Box_Frisk {
+    margin-left: 400px;
 }
 .box_info {
     background-color: black;
-    height: 150px;
+    height: 350px;
     width: 500px;
     margin-left: -20px;
     margin-right: 100px;
