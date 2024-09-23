@@ -98,18 +98,20 @@
     height: 641px;
 }
 .Mundo_5 {
-    background: url(/Imagens/Mundo_5.png);
+    background: url(/Imagens/Mundo5.png);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
     margin: 0;
+    height: 600px;
 }
 .Mundo_6 {
-    background: url(/Imagens/Mundo_6.png);
+    background: url(/Imagens/Mundo6.png);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
     margin: 0;
+    height: 641px;
 }
 .Mundo_7 {
     background: url(/Imagens/Mundo7.png);
@@ -117,5 +119,5 @@
     background-position: center; 
     background-size: cover;
     margin: 0;
-    height: 680px;
+    height: 640px;
 }
