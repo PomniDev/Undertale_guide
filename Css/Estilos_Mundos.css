@@ -73,25 +73,29 @@
     margin: 0;
 }
 .Mundo_2 {
-    background: url(/Imagens/Mundo_2.png);
+    background: url(/Imagens/Mundo2.png);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
     margin: 0;
+    height: 600px;
 }
 .Mundo_3 {
-    background: url(/Imagens/Mundo_3.png);
+    background: url(/Imagens/Mundo3.png);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
     margin: 0;
+    height: 630px;
+   
 }
 .Mundo_4 {
-    background: url(/Imagens/Mundo_4.png);
+    background: url(/Imagens/Mundo4.png);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
     margin: 0;
+    height: 641px;
 }
 .Mundo_5 {
     background: url(/Imagens/Mundo_5.png);
