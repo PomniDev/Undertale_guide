@@ -1,0 +1,65 @@
+.box_S {
+    background-color: black;
+}
+body {
+    background-color: black;
+    margin: 0;
+}
+.Box_Sans {
+    background-color: black;
+    height: 500px;
+    width: 500px;
+    margin-left: 400px;
+    margin-right: 200px;
+
+}
+.Base_Cab{
+height: 100px;
+width: 100px;
+}
+.Base_Cuerpo{
+height: 200px;
+width: 200px;
+margin-left: 150px;
+margin-right: 100px;
+margin-top: 30px;
+
+
+}
+.box_info {
+    background-color: black;
+    height: 150px;
+    width: 500px;
+    margin-left: -20px;
+    margin-right: 100px;
+    border: solid 5px;
+    border-color: white;
+
+}
+.Base {
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 500px;
+    height: 300px;
+}
+.Letras_base {
+    text-align: center;
+    color: white;
+}
+.nav{
+    background-color: rgb(0, 0, 0);
+}
+.nav_list {
+    display: inline;
+}
+.Nav_item {
+    display: inline-block;
+    padding: 10px;
+}
+.Nav_link {
+    color: #ffffff;
+    text-decoration: none;
+}
+.Nav_item:hover {
+    background-color: rgb(207, 207, 207);
+}

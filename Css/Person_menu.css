@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    background-image: url(/Imagens/Fondo.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+}
+.nav{
+    background-color: rgb(0, 0 ,0);
+}
+.nav_list {
+    display: inline;
+}
+.Nav_item {
+    display: inline-block;
+    padding: 10px;
+}
+.Nav_link {
+    color: #ffffff;
+    text-decoration: none;
+}
+.Nav_item:hover {
+    background-color: rgb(207, 207, 207);
+}
+.container {
+    max-width: 400px;
+}
+
+.toggle-checkbox {
+    display: none; /* Oculta el checkbox */
+}
+
+.toggle-button {
+    display: inline-block;
+    padding: 10px 15px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.info {
+    margin-top: 10px;
+    padding: 10px;
+    display: none;
+}
+
+.toggle-checkbox:checked + .toggle-button + .info {
+    display: block; /* Muestra la info si el checkbox está marcado */
+}
+.Box2{
+    padding: 50px;
+    background-color: rgb(175, 101, 17);
+    margin: 200px;
+    height:  600px;
+}
+img {
+    width: 100px;
+}
