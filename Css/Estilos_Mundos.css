@@ -108,9 +108,10 @@
     margin: 0;
 }
 .Mundo_7 {
-    background: url(/Imagens/Mundo_7.png);
+    background: url(/Imagens/Mundo7.png);
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
     margin: 0;
+    height: 680px;
 }

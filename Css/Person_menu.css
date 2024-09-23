@@ -51,9 +51,11 @@ body {
 }
 .Box2{
     padding: 50px;
-    background-color: rgb(175, 101, 17);
+    background-color: rgb(138, 85, 25);
     margin: 200px;
     height:  600px;
+    border: solid 5px;
+    border-color: white;
 }
 img {
     width: 100px;
