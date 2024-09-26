@@ -1,2 +1,0 @@
-# Pomni segaviota
-aisdaidajfjwjweiajujuju
